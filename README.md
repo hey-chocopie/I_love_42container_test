@@ -9,7 +9,7 @@
 ### 소개 :
 * 제작한 ft container(vector, map, stack)와 std container를 비교하는 testerkit 입니다.
 ### 기간 : 
-* 2022.02.15
+* 2022.02.15 ~
 ### 요약 :  
 * C++ standard(표준,std) 의 Container(vector, map, stack)와 제작한 ft의 container를 비교합니다.
 * 정상적으로 컴파일 되고 출력이 되면, 화면에 ok를 출력합니다.
