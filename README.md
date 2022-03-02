@@ -1,8 +1,8 @@
-# 0. contribute를 기다립니다. 테스트 케이스 추가해주세요
-tsetsrc의 파일에 vector, map, stack중 파일로 들어가 테스트하고 싶은 케이스를 넣어볼수 있습니다. 
-기존 map_test.cpp파일에 추가해도 되고, test_srcs/vector 경로에 cpp형태로 파일을 넣으면 ./checker에 반영됩니다.
-많은 관심 부탁드립니다. 🐶
+# contribute, 테스트 케이스 추가해주세요🐶
 
+* tsetsrc의 파일에 vector, map, stack중 파일로 들어가 테스트하고 싶은 케이스를 넣어볼수 있습니다. 
+* 기존 map_test.cpp파일에 추가해도 되고, test_srcs/vector 경로에 cpp형태로 파일을 넣으면 ./checker에 반영됩니다.
+* 많은 관심 부탁드립니다. 
 
 
 # 1. 프로젝트 소개 🚛
