@@ -2,13 +2,11 @@
 
 소개 : 제작한 ft container(vector, map, stack)와 std container를 비교하는 testerkit 입니다.
 기간 : 2022.02.15
-요약 :  C++ standard(표준,std) 의 Container(vector, map, stack)와 제작한 ft의 container를 비교합니다.
-		
-		정상적으로 컴파일 되고 출력이 되면, 화면에 ok를 출력합니다.
-		
-		실패한다면, 컴파일 또는 출력 중 어느곳에서 std와 다른지 출력합니다.
-		
-		log에 출력되는 값이 저장됩니다. deepthought에 std와의 diff값이 저장됩니다.
+요약 :  
+* C++ standard(표준,std) 의 Container(vector, map, stack)와 제작한 ft의 container를 비교합니다.
+* 정상적으로 컴파일 되고 출력이 되면, 화면에 ok를 출력합니다.
+* 실패한다면, 컴파일 또는 출력 중 어느곳에서 std와 다른지 출력합니다.		
+* log에 출력되는 값이 저장됩니다. deepthought에 std와의 diff값이 저장됩니다.
 
 # 2. 프로젝트 구조
 ```
